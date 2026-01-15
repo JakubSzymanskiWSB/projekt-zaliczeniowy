@@ -1,16 +1,26 @@
 # 🌿 EcoHabit Project
 
-## 🎯 O Projekcie
-EcoHabit to narzędzie edukacyjno-motywacyjne, które pomaga użytkownikom wprowadzać proekologiczne zmiany w codziennym życiu. Projekt realizowany w ramach zaliczenia narzędzi programistycznych.
-
-## 🛠 Stos Technologiczny
-* **Git/GitHub:** Zarządzanie kodem i wersjonowanie.
-* **Markdown:** Dokumentacja techniczna i merytoryczna.
-* **Trello:** Zarządzanie zadaniami w modelu Agile/Kanban.
-* **CI/CD (GitHub Actions):** Automatyczna walidacja struktury plików.
-
-## 📈 Status Projektu
-Obecnie projekt znajduje się w fazie **prototypowania koncepcyjnego**. Wszystkie założenia znajdują się w katalogu `src/`.
+EcoHabit to aplikacja wspierająca budowanie ekologicznych nawyków poprzez grywalizację.
 
 ---
-*Autor: Jakub Szymański*
+
+## 📂 Dokumentacja Projektowa
+Wszystkie szczegółowe materiały dotyczące koncepcji projektu znajdziesz w folderze `docs/`:
+
+* [📄 Opis Projektu](docs/opis_projektu.md) – cel, grupa docelowa i funkcjonalności.
+* [💡 Inspiracje](docs/inspiracje.md) – skąd wziął się pomysł i lista funkcji.
+* [📊 Diagram Flowchart](docs/diagram.md) – wizualizacja przepływu użytkownika (Mermaid).
+
+---
+
+## 🛠 Narzędzia i Technologie
+* **Git / GitHub** – kontrola wersji.
+* **Markdown & Mermaid** – dokumentacja techniczna.
+* **Trello** – zarządzanie zadaniami (metodyka Agile).
+* **CI/CD** – zautomatyzowany workflow przez GitHub Actions.
+
+## 🚀 Status
+Projekt jest obecnie w fazie dokumentowania koncepcji (Makiety i Flow).
+
+---
+*Autor: [Twoje Imię i Nazwisko]*
