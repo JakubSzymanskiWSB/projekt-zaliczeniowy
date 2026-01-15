@@ -23,4 +23,4 @@ Wszystkie szczegółowe materiały dotyczące koncepcji projektu znajdziesz w fo
 Projekt jest obecnie w fazie dokumentowania koncepcji (Makiety i Flow).
 
 ---
-*Autor: [Twoje Imię i Nazwisko]*
+*Autor: Jakub Szymański*
