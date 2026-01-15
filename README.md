@@ -22,5 +22,9 @@ Wszystkie szczegółowe materiały dotyczące koncepcji projektu znajdziesz w fo
 ## 🚀 Status
 Projekt jest obecnie w fazie dokumentowania koncepcji (Makiety i Flow).
 
+## 📋 Zarządzanie Projektem
+Postępy prac można śledzić na publicznej tablicy Trello: 
+[Link do tablicy Trello](https://trello.com/invite/b/6968f9bdaa7aeab0c4a6012b/ATTI05abd1514a5e5a96b74997f0371259f5BBBB9846/ecohabit-projekt-zaliczeniowy)
+
 ---
 *Autor: Jakub Szymański*
